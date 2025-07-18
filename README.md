@@ -92,7 +92,7 @@ Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes
 ## 🙌 Contribuições
 
 Contribuições são bem-vindas!  
-Sinta-se à vontade para abrir uma [Issue](https://github.com/Dinizgabri3l/Automa_o_Manaus/issues) ou enviar um Pull Request.
+Sinta-se à vontade para abrir uma [Issue](https://github.com/Dinizgabri3l/Automa-o_Manaus/issues) ou enviar um Pull Request.
 
 ---
 
