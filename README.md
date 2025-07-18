@@ -1,7 +1,7 @@
 # 🤖 Automa_o_Manaus
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/github/license/Dinizgabri3l/Automa_o_Manaus)
+![License](https://img.shields.io/github/license/Dinizgabri3l/Automa-o_Manaus)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
