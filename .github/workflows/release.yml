@@ -1,0 +1,23 @@
+name: 📦 Release Automático
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+
+jobs:
+  release:
+    name: Criar Release GitHub
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: ⬇️ Clonar o repositório
+      uses: actions/checkout@v3
+
+    - name: 🔖 Criar Release no GitHub
+      uses: softprops/action-gh-release@v1
+      with:
+        generate_release_notes: true
+
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
