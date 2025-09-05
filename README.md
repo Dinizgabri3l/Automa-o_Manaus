@@ -54,21 +54,6 @@ python scripts/main.py
 
 ---
 
-## 🕒 Execução automática (Agendador de Tarefas do Windows)
-
-1. Abra o **Agendador de Tarefas** no Windows
-2. Clique em **Criar Tarefa...**
-3. Aba **Ações**:
-   - Programa/script: `python`
-   - Adicionar argumentos: `C:\caminho\para\Automa_o_Manaus\scripts\main.py`
-   - Iniciar em: `C:\caminho\para\Automa_o_Manaus\`
-4. Aba **Disparadores**:
-   - Novo → Repetir a cada 12 horas
-5. Marque “Executar com privilégios mais altos”
-6. Salve a tarefa
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - [Python 3.9+](https://www.python.org/)
